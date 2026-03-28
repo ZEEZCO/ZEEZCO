@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**ZEEZCO/ZEEZCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Abdulazeez Bamisola Idowu
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a Python developer and AWS cloud enthusiast focused on building scalable, data-driven applications, especially in environmental and public health systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python (Backend, Data Processing)
+- HTML, CSS, JavaScript
+- AWS (EC2, S3)
+- API Integration
+- Software Engineering
+
+## 📌 Projects
+
+### 🔹 WASH Water Quality Monitoring System
+A system that analyzes water quality parameters based on WHO standards and generates recommendations.
+
+### 🔹 Data Processing Web App
+Compares datasets against defined standards and outputs results dynamically.
+
+## ☁️ Cloud Experience
+- AWS EC2 deployment  
+- S3 storage integration  
+
+## 📫 Contact
+- Email: idowuabdulazeez1@gmail.com
